@@ -1,0 +1,377 @@
+Intent,Text
+showCommandPalette,show commands
+showCommandPalette,show all commands
+showCommandPalette,open command palette
+showCommandPalette,show command palette
+showCommandPalette,show command list
+openNewWindow,open new vs code window
+openNewWindow,open new vs code instance
+openNewWindow,open new window
+showCommandPalette,open command list
+openNewWindow,open new instance
+closeWindow,close instance
+closeWindow,exit window
+closeWindow,close window
+closeWindow,exit instance
+closeWindow,close current instance
+closeWindow,close current vs code window
+closeWindow,close current vs code instance
+closeWindow,close current window
+openUserSettings,open user settings
+openUserSettings,open global user settings
+openUserSettings,open global settings
+openUserSettings,show user settings
+openUserSettings,show global user settings
+openUserSettings,show settings
+openUserSettings,show global settings
+openKeyboardShortcuts,open keyboard shortcuts
+openUserSettings,open settings
+openKeyboardShortcuts,show keyboard shortcuts
+openKeyboardShortcuts,open key bindings
+cutTextOrLine,cut
+openKeyboardShortcuts,open key mappings
+openKeyboardShortcuts,show key mappings
+cutTextOrLine,cut string
+openKeyboardShortcuts,show key bindings
+cutTextOrLine,cut line
+copyTextOrLine,copy
+cutTextOrLine,cut word
+copyTextOrLine,copy string
+cutTextOrLine,cut text
+copyTextOrLine,copy text
+moveLineUp,move line up
+moveLineUp,move line above
+moveLineUp,move line before
+copyTextOrLine,copy word
+copyTextOrLine,copy line
+moveLineDown,move line down
+moveLineUp,move line upwards
+moveLineDown,move line downwards
+moveLineDown,move line after
+copyLineUp,replicate line up
+copyLineUp,copy line above
+moveLineDown,move line below
+copyLineUp,replicate line above
+copyLineUp,copy line before
+copyLineUp,replicate line before
+copyLineDown,copy line down
+copyLineUp,copy line up
+copyLineDown,replicate line down
+copyLineDown,replicate line below
+copyLineDown,copy line below
+copyLineDown,copy line after
+copyLineDown,replicate line after
+deleteLine,delete
+deleteLine,delete line
+deleteLine,delete current line
+insertLineBelow,insert line down
+deleteLine,current line delete
+insertLineBelow,insert line after
+insertLineBelow,insert line below
+insertLineAbove,insert line above
+insertLineBelow,insert line below
+insertLineAbove,insert line up
+goToBeginningOfFile,scroll to beginning of file
+goToBeginningOfFile,scroll to start of file
+goToBeginningOfFile,scroll to top of file
+insertLineAbove,insert line before
+goToBeginningOfFile,scroll beginning
+goToBeginningOfFile,scroll start
+goToEndOfFile,scroll to end of file
+goToEndOfFile,scroll to bottom of file
+goToBeginningOfFile,scroll top
+goToEndOfFile,scroll to end
+goToEndOfFile,scroll to bottom
+goToEndOfFile,scroll end of file
+goToEndOfFile,scroll bottom of file
+goToEndOfFile,scroll end
+goToEndOfFile,scroll bottom
+addLineComment,append comment
+addLineComment,add comment
+addLineComment,include comment
+addLineComment,add a comment
+addLineComment,include a comment
+addLineComment,append a comment
+removeLineComment,remove comment
+removeLineComment,remove a comment
+removeLineComment,un comment a comment
+commentLine,comment line
+removeLineComment,un comment
+commentLine,comment current line
+commentLine,comment current line
+commentLine,comment current line
+commentLine,comment current line
+collapseRegion,collapse the lines
+goToEndOfFile,scroll bottom
+collapseRegion,collapse the region
+collapseRegion,minimize the region
+collapseRegion,minimize the lines
+commentLine,comment current line
+collapseRegion,collapse region
+collapseRegion,collapse lines
+collapseRegion,minimize lines
+collapseRegion,minimize region
+expandRegion,maximize the lines
+expandRegion,expand the region
+expandRegion,expand the lines
+expandRegion,expand lines
+expandRegion,expand region
+expandRegion,maximize lines
+expandRegion,maximize region
+expandRegion,maximize the region
+collapseAll,collapse all
+collapseAll,collapse code
+collapseAll,minimize all
+collapseAll,minimize code
+collapseAll,minimize everything
+expandAll,maximize code
+expandAll,expand everything
+expandAll,expand code
+expandAll,expand the code
+collapseAll,collapse everything
+expandAll,maximize the code
+expandAll,expand the everything
+expandAll,maximize the everything
+saveFile,save file
+expandAll,maximize everything
+saveFile,save current file
+saveFile,save the file
+saveFile,save
+saveFile,current file save
+saveAllFiles,save all
+saveAllFiles,save everything
+saveAllFiles,save all files
+closeFile,close the file
+closeFile,close file
+closeFile,close current file
+closeFile,current file close
+closeFile,close tab
+closeFile,close
+closeAllFiles,close all
+closeAllFiles,close all tabs
+closeAllFiles,close everything
+closeAllFiles,close all files
+openNextFile,switch to next tab
+openNextFile,switch to next file
+openNextFile,switch next tab
+openPreviousFile,switch to previous tab
+openPreviousFile,switch to previous file
+openPreviousFile,switch previous tab
+openPreviousFile,switch previous file
+toggleFullScreen,view full screen
+toggleFullScreen,toggle full screen
+toggleFullScreen,toggle whole screen
+toggleFullScreen,view whole screen
+zoomIn,zoom in
+zoomIn,zoom in view
+openNextFile,switch next file
+zoomIn,zoom in editor
+zoomIn,zoom in window
+zoomIn,zoom in view
+zoomOut,zoom out view
+zoomOut,zoom out window
+zoomOut,zoom out window view
+zoomOut,zoom out
+showSourceControl,show changes
+showSourceControl,show modifications
+showSourceControl,show diff
+showSourceControl,view changes
+showSourceControl,show differences
+showSourceControl,view modifications
+showSourceControl,view differences
+showSourceControl,show changes in files
+showSourceControl,show modifications in files
+showSourceControl,view diff
+showDebug,show debug and run pane
+showSourceControl,show differences in files
+showDebug,show debug and run window
+showDebug,show debug
+showDebug,show debug and run
+showDebug,show debug and run
+showDebug,show debug and run window
+showDebug,show debug window
+showDebug,show debug and run pane
+showDebug,open debug
+showDebug,open debug and run pane
+showDebug,show debug pane
+showDebug,show debug window
+showDebug,open debug and run window
+showDebug,open debug and run
+showDebug,show debug pane
+showDebug,open debug window
+showDebug,open debug pane
+showDebug,open debug and run pane
+showDebug,open debug and run window
+showDebug,open debug and run
+showDebug,open debug pane
+showDebug,open debug window
+showExtensions,show extensions
+showExtensions,show extensions pane
+showExtensions,show extensions window
+showExtensions,open extensions window
+showOutputPane,view output
+showExtensions,open extensions pane
+showExtensions,open extensions
+showOutputPane,view output pane
+showOutputPane,view output window
+showOutputPane,toggle output
+showOutputPane,toggle output pane
+showOutputPane,toggle output window
+zenMode,view zen mode
+zenMode,toggle zen mode
+zenMode,work zen mode
+zenMode,zen mode on
+zenMode,zen mode off
+toggleBreakpoint,add break point
+zenMode,zen mode
+toggleBreakpoint,toggle breakpoint
+toggleBreakpoint,remove break point
+startDebugging,start debugging
+startDebugging,start debug session
+continueDebugging,continue debug session
+startDebugging,start new debug session
+continueDebugging,continue debugging
+continueDebugging,resume debug session
+continueDebugging,resume debugging
+toggleBreakpoint,toggle break point
+stopDebugging,stop debug session
+stopDebugging,cancel debug session
+stopDebugging,terminate debug session
+stopDebugging,stop debugging
+stopDebugging,terminate debugging
+stopDebugging,finish debugging
+stopDebugging,finish debug session
+selectLine,select
+stopDebugging,cancel debugging
+selectLine,line select
+selectLine,select current line
+selectLine,select line
+selectLine,line select current
+moveToLineStart,move to start of line
+moveToLineStart,start of line
+moveToLineEnd,move to end of line
+moveToLineStart,scroll to start of line
+moveToLineEnd,scroll to end of line
+moveToLineEnd,end of line
+selectLine,line select current line
+stepIntoDefinition,step into function definition
+stepIntoDefinition,enter definition
+stepIntoDefinition,step into definition
+stepOutsideDefinition,step outside definition
+stepIntoDefinition,enter function definition
+stepOutsideDefinition,step out of function definition
+stepOutsideDefinition,exit function definition
+stepIntoDefinition,step into definition
+stepOutsideDefinition,step outside definition
+stepOutsideDefinition,exit definition
+stepOverDefiniton,step over function definition
+stepOverDefiniton,step over definition
+stepOverDefiniton,bypass function definition
+hoverOverDefinition,hover over definition
+stepOverDefiniton,bypass definition
+stepOverDefiniton,step over definition
+hoverOverDefinition,peek definition
+hoverOverDefinition,hover over function definition
+hoverOverDefinition,view function definition
+hoverOverDefinition,show definition
+hoverOverDefinition,show function definition
+hoverOverDefinition,view definition
+showTerminal,show integrated terminal
+showTerminal,show integrated terminal
+showProblemsPanel,show problems window
+showTerminal,toggle integrated terminal
+hoverOverDefinition,peek function definition
+showTerminal,toggle integrated terminal
+showProblemsPanel,show problems panel
+showProblemsPanel,show problem panel
+goToNextError,go to next warning
+showProblemsPanel,show problem window
+goToPrevError,go to previous warning
+goToNextError,go to next error
+toggleSideBarVisibility,toggle sidebar
+toggleSideBarVisibility,toggle sidebar visibility
+toggleSideBarVisibility,toggle side bar
+toggleSideBarVisibility,show side bar
+toggleSideBarVisibility,show sidebar
+showExplorer,show explorer
+showExplorer,show explorer focus
+showExplorer,show explorer window focus
+goToPrevError,go to previous error
+showExplorer,show explorer pane focus
+showExplorer,show explorer pane
+showExplorer,show explorer window
+showExplorer,show explorer view focus
+showExplorer,show explorer view
+showExplorer,show explorer views
+showExplorer,show explorer views
+showExplorer,show explorer views focus
+showExplorer,toggle explorer window
+showExplorer,toggle explorer window focus
+showExplorer,toggle explorer pane
+showExplorer,toggle explorer pane focus
+showExplorer,toggle explorer view
+showExplorer,toggle explorer view focus
+showExplorer,toggle explorer views
+showExplorer,toggle explorer views focus
+showExplorer,toggle explorer views
+showExplorer,toggle explorer views focus
+showSearch,show search
+showSearch,show search window
+showSearch,show search pane
+showSearch,show search view
+showSearch,show search views
+showSearch,toggle search
+showSearch,toggle search window
+showSearch,toggle search pane
+showSearch,toggle search views
+showSearch,toggle search view
+replaceinfiles,replace in all files
+replaceinfiles,replace in files
+showExplorer,toggle explorer
+toggleQueryDetails,toggle query details
+toggleQueryDetails,toggle query details window
+showExplorer,show explorer views focus
+toggleQueryDetails,toggle query details pane
+toggleQueryDetails,toggle query details view
+toggleQueryDetails,toggle query details views
+formatdocument,format document
+formatdocument,format all documents
+formatdocument,format all documents
+formatselection,format current selection
+quickfix,quick fix
+quickfix,quick fix current
+formatselection,format selection
+showExplorer,toggle explorer focus
+showReferences,show reference
+showReferences,show references
+quickfix,quick fix current selection
+showReferences,show references window
+showReferences,show references view
+copyPathOfActiveFile,copy active file path
+copyPathOfActiveFile,copy active file path to clipboard
+showReferences,show references views
+revealActiveFileInExplorer,show active file
+copyPathOfActiveFile,copy active file path to clipboard
+focusAboveEditorGroup,focus above editor group
+revealActiveFileInExplorer,show active file in explorer
+moveEditorToNextGroup,move editor to next editor group
+showReferences,show references pane
+focusAboveEditorGroup,focus upward editor group
+startRun,run application
+moveEditorToNextGroup,move editor to next group
+startRun,run application
+startRun,run app
+dimsissSuggestion,dismiss suggestion
+acceptSuggestion,accept suggestion
+dimsissSuggestion,dismiss inline suggestion
+showNextSuggestion,show next suggestion
+showNextSuggestion,show next inline suggestion
+showPrevSuggestion,show previous suggestion
+acceptSuggestion,accept inline suggestion
+showPrevSuggestion,show previous inline suggestion
+openCopilot,open copilot window
+openCopilot,open copilot pane
+openCopilot,open copilot
+openCopilot,open copilot view
+startRun,run app
+openCopilot,open copilot views
